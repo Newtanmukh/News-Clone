@@ -1,0 +1,19 @@
+Frontend we will use material UI and ReactJS.
+Backend : Node.JS and Express.JS
+DB	:	MongoDB
+
+
+on typing npm start, it will search for the 'start' thing in the scripts. ater that once it founds,
+it will start it.
+this command called  :   'react-scripts start'  will put the entire code in a development server.
+			 it will by default,run the entire thing in 800 port.
+
+
+all the code is rendered from index.js.
+
+
+
+
+
+
+
